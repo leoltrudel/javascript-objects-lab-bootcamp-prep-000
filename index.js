@@ -1,5 +1,5 @@
 var recipies = {}
 
 function updateObjectWithKeyAndValue(object,key,value) {
-  return object.assign({}, object, {[key]: })
+  return object.assign({}, object, {[key]: value})
 }
