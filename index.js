@@ -1,2 +1,2 @@
-var recipies {}
+var recipies = {}
 
